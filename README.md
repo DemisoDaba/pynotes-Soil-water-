@@ -1,4 +1,4 @@
-# PyNotes for Environmental Scientists
+# PyNotes for Environmental Scientistss
 
 <a href="https://zenodo.org/badge/latestdoi/181793782"><img src="https://zenodo.org/badge/181793782.svg" alt="DOI"><a>
 
